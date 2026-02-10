@@ -8,9 +8,10 @@ This assignment demonstrates how to use **Bun** to run JavaScript commands throu
 
 **Command:**
 
-```bash
 bun --version
 
+**output:**
 
+1.3.9
 
 
